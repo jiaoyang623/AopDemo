@@ -3,6 +3,7 @@ plugins {
     id 'org.jetbrains.kotlin.jvm' version '1.5.10'
 }
 
+
 group 'org.example'
 version '1.0-SNAPSHOT'
 
@@ -33,3 +34,5 @@ compileTestKotlin {
         jvmTarget = "1.8"
     }
 }
+
+apply from: 'demo.gradle'
