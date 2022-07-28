@@ -1,4 +1,4 @@
-package guru.ioio.asm.demo.asm
+package guru.ioio.aop.demo.asm
 
 import org.objectweb.asm.MethodVisitor
 import org.objectweb.asm.Opcodes

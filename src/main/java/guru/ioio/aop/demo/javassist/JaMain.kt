@@ -1,4 +1,4 @@
-package guru.ioio.asm.demo.javassist
+package guru.ioio.aop.demo.javassist
 
 import guru.ioio.aop.demo.base.bean.SimpleBean
 import javassist.ClassPool
